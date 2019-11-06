@@ -120,5 +120,5 @@ df_lists  <- lapply(my_links, get_one_page_from_boxes)
 
 final_df <- rbindlist(df_lists)
 
-
+saveRDS(final_df, 'base_excersise/data_res.rds')
 
