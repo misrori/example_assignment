@@ -1,0 +1,1 @@
+# Chose one project from excel and make it in a team(max 2 students) or alone. Upload your result into a github project and write the repo url into excel. 
